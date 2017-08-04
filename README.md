@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<script src="http://code.highcharts.com/highcharts.js"></script>
 
 You can use the [editor on GitHub](https://github.com/Ginaalina/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
